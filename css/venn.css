@@ -1,0 +1,218 @@
+#canvas {
+  width: 400px;
+  height: 310px;
+  border: 0px solid #000;
+  position: relative;
+}
+
+.sphere {
+  color: #ffffff;
+  width: 200px;
+  height: 130px;
+  border-radius: 50%;
+  position: absolute;
+  transition: background-color 800ms ease-in-out;
+  transition: width 800ms, height 800ms, border-radius 800ms, left 800ms, top 800ms;
+  -moz-transition: width 800ms, height 800ms, border-radius 800ms, left 800ms, top 800ms;
+  -ms-transition: width 800ms, height 800ms, border-radius 800ms, left 800ms, top 800ms;
+  -o-transition: width 800ms, height 800ms, border-radius 800ms, left 800ms, top 800ms;
+  -webkit-transition: width 800ms, height 800ms, border-radius 800ms, left 800ms, top 800ms;
+}
+
+.sphere:hover {
+  transition: background-color 800ms ease-in-out;
+  color: #ffffff;
+  z-index: 999;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  width: 225px;
+  height: 200px;
+}
+
+.block-link {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 999;
+  top: 0px;
+  left: 0px;
+  cursor: pointer;
+}
+
+.one {
+  left: 10px;
+  top: 0px;
+  background: rgba(241, 90, 36, .9);
+  border: 2px rgb(234, 234, 234) solid;
+  z-index: 3;
+}
+
+.two {
+  left: 90px;
+  top: 105px;
+  color: #6c777e;
+  background: rgba(255, 255, 255, .8);
+  border: 2px rgb(165, 165, 165) solid;
+  z-index: 1;
+}
+
+.three {
+  left: 180px;
+  top: 0px;
+  background: rgba(165, 165, 165, .8);
+  border: 2px rgb(165, 165, 165) solid;
+  z-index: 2;
+}
+
+.one:hover {
+  /*background: rgb(197, 129, 7);*/
+  background: rgb(241, 90, 36);
+}
+
+.two:hover {
+  background: rgb(128, 128, 128);
+}
+
+.three:hover {
+  background: rgb(200, 200, 200);
+}
+
+.text {
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  position: relative;
+  top: 55px;
+  left: 35px;
+}
+
+.sphere:hover .text {
+  top: 25px;
+  left: 45px;
+}
+
+.blurb {
+  margin: 2.5em;
+  color: rgba(255, 255, 255, 0);
+  -ms-transform: scale(.9);
+  -webkit-transform: scale(.9);
+  transform: scale(.9);
+  visibility: hidden;
+}
+
+.sphere:hover .blurb {
+  -webkit-transition: all 2s ease-in-out;
+  -moz-transition: all 2s ease-in-out;
+  -o-transition: all 2s ease-in-out;
+  -ms-transition: all 2s ease-in-out;
+  transition: all 2s ease-in-out;
+  color: rgba(255, 255, 255, 1);
+  visibility: visible;
+}
+
+.bubble {
+  width: 80px;
+  height: 60px;
+  border-radius: 50%;
+  position: absolute;
+  transition: background-color 800ms ease-in-out;
+}
+
+.bubble:hover {
+  transition: background-color 800ms ease-in-out;
+  background-color: white;
+  color: #6c777e;
+}
+
+.bubble:hover .app-txt{
+  color: #6c777e;
+}
+
+.robo {
+  left: 20px;
+  top: 250px;
+  background: rgb(165, 165, 165);
+  border: 2px rgb(165, 165, 165) solid;
+}
+
+.ar {
+  left: 110px;
+  top: 250px;
+  background: rgba(241, 90, 36, .9);
+  border: 2px rgb(165, 165, 165) solid;
+}
+
+.vr {
+  left: 200px;
+  top: 250px;
+  background: rgb(165, 165, 165);
+  border: 2px rgb(165, 165, 165) solid;
+}
+
+.mobile {
+  left: 290px;
+  top: 250px;
+  background: rgba(241, 90, 36, .9);
+  border: 2px rgb(165, 165, 165) solid;
+  z-index: 3;
+}
+
+.app-txt {
+  position: relative;
+  text-align: center;
+  top: 20px;
+  color: rgb(255, 255, 255);
+}
+
+/****   fade-in-fade-out project descriptions CURRENTLY NOT WORKING AS INTENDED ****/
+.container {
+	display: inline-block;
+	vertical-align: middle;
+	white-space: nowrap;
+	text-align: center;
+	border: 0px solid grey;
+}
+
+.project-figure{
+	float: left;
+  height: 130px;
+  width: 200px;
+  margin: 0px;
+	padding: 0px 0px 20px 0px;
+	background-color: white;
+  border: 0px solid grey;
+}
+
+.project-figure img {
+ object-fit: fill;
+ /*position: relative;*/
+}
+
+.description {
+  position: absolute;
+  cursor: pointer;
+  color: white;
+  visibility: hidden;
+  height: 130px;
+  width: 200px;
+  /*transform: translateY(-130px);*/
+  transition: background-color 800ms ease-in-out;
+  /*transition: visibility 600ms ease-in-out;*/
+  z-index:0;
+  pointer-events: none;
+}
+
+.project-figure:hover .description{
+  /*transition: visibility 600ms ease-in-out;*/
+  transition: background-color 800ms ease-in-out;
+  background: rgba(165, 165, 165, .8);
+  color: #ffffff;
+  z-index: 999;
+  visibility: visible;
+}

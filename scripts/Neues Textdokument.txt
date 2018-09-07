@@ -1,0 +1,28 @@
+// BUG orientation portrait/lanscape IOS //
+if (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)) {
+var viewportmeta = document.querySelector('meta[name="viewport"]');
+if (viewportmeta) {viewportmeta.content = 'width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0';
+	document.addEventListener('orientationchange', function () {viewportmeta.content = 'width=device-width, minimum-scale=0.25, maximum-scale=1';}, false);}
+};
+
+// Enable Responsive Video Resize  //css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php
+$(function() {
+var $allVideos = $("iframe[src^='//player.vimeo.com'], iframe[src^='//www.youtube.com'], object, embed"),
+	$fluidEl = $("div.video");
+	$allVideos.each(function() {
+	  $(this)
+		// jQuery .data does not work on object/embed elements
+		.attr('data-aspectRatio', this.height / this.width)
+		.removeAttr('height')
+		.removeAttr('width');
+	});
+	$(window).resize(function() {
+	  var newWidth = $fluidEl.width();
+	  $allVideos.each(function() {
+		var $el = $(this);
+			$el
+			   .width(newWidth)
+			   .height(newWidth * $el.attr('data-aspectRatio'));
+	  });
+	}).resize();
+});
