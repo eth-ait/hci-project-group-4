@@ -2,8 +2,8 @@
   <img style="width:30%;align:left" src="https://github.com/eth-ait/HCI-fall-2018-project-page/blob/master/img/logo-ait.png">             
 </p>
 
-# [Project name], Group [Group number]
-#### Student 1, Student 2, Student 3, Student 4, Student 5
+# Music planing App, Group 4
+#### Fabian, Oliver, Guy and Pius
 
 ## Project description
     TODO
