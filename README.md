@@ -5,8 +5,13 @@
 # Music planing App, Group 4
 #### Fabian, Oliver, Guy and Pius
 
+## Resources here:
+
+See the [google drive folder](https://drive.google.com/folderview?id=1PBzoqfXrZz1RT7WT0kP88RAMHMnA3gEM).
+
 ## Project description
-    TODO
+
+
 Add a description of your project, based on your discussion with the stakeholder. Minimum answer the following questions: 
 - What is the problem the company/user faces?
 - What are the goals of the project?
