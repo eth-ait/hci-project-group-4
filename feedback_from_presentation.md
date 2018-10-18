@@ -7,4 +7,4 @@
 - [] clarify the need for the physical device box thing
 - [] be more explicit of our ideas as to how to motivate
 - [] have some of the ideas more available
-
+- [] post on piazza for feedback
