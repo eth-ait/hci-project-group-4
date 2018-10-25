@@ -11,23 +11,27 @@ See the [google drive folder](https://drive.google.com/folderview?id=1PBzoqfXrZz
 
 ## Project description
 
-
+> TODO
 Add a description of your project, based on your discussion with the stakeholder. Minimum answer the following questions: 
 - What is the problem the company/user faces?
 - What are the goals of the project?
 
-Optional: in this part you can include notes from your first meeting with the stakeholder (Week 2-3)
+See the [google drive folder](https://drive.google.com/drive/folders/1PBzoqfXrZz1RT7WT0kP88RAMHMnA3gEM) for everything, the [transcripts, recordings](https://drive.google.com/open?id=1kx0EszdkyByjEh_52i8lY7bDUfpFhElt) and [ivan's practice formula](https://drive.google.com/open?id=1enS73yaeMvfAof8zEtGe3URoXVIFXiKN) .
 
 ## Ideas
-    TODO
+    See [here](https://drive.google.com/open?id=1UqAm5M5Ioyaa5R3Kg8h9f8dVnJq6MgdC) for the affinity clustering.
+    See [here](https://drive.google.com/open?id=1lp8kTtNNL11OaOj7rqZEuaVl0SLD0_f8) for the applications.
+    See the presentation below for the personas.
+Full (with personas etc) Presentation after the needfinding, ideation process is [here](https://drive.google.com/open?id=101UhFm8z1LTBHFix8SN5eABZF9bke_wRTZJAJKXjmAU).
+
+- [] Current task: [Prototyping](prototyping.md)
+
+> TODO
 Start with the key requirements/needs of the users / the company
 Then list your initial ideas (min. 3) with a brief description.
-Upload the PPT presentation that you discussed with the stakeholder to the "deliverables" folder and include the link here. 
-
-Optional: in this part you can document the needfinding, ideation, and prototyping process (e.g. describe personas, show affinity clusters, etc. ) (Weeks 3-6)
     
 ## Evaluation
-    TODO
+    >TODO
 Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. 
 Upload the document shared with the stakeholder to the "deliverables" folder and include the link here.
 
