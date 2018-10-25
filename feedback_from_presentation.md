@@ -1,5 +1,5 @@
 
-# Feedback
+# In-class Feedback
 
 - [] Relate the 'getting lost' and personas to the ideas more
 - [x] change the photos of the users
