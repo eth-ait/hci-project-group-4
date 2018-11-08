@@ -33,9 +33,9 @@ See:
 
 **In Progress**
 
- - [] [Test Protocol](https://drive.google.com/open?id=1XmtqLUtddxwxh6kEhFyDwKhBKJgn52R8SuSEwdxx8_o)
- - [] user evaluations
- - [] analysis
+ - [ ] [Test Protocol](https://drive.google.com/open?id=1XmtqLUtddxwxh6kEhFyDwKhBKJgn52R8SuSEwdxx8_o)
+ - [ ] user evaluations
+ - [ ] analysis
 
     > TODO
     Describe your approach for evaluating your low-fi prototypes, present your results and your conclusion. 
@@ -45,10 +45,10 @@ See:
 
 ## TODO
 
-- [] blog post format
-    - [] [personas](blog/personas.md)
-    - [] [initial ideas](blog/initial_ideas.md).
-    - [] [evaluation](blog/evaluation.md)
+- [ ] blog post format
+    - [ ] [personas](blog/personas.md)
+    - [ ] [initial ideas](blog/initial_ideas.md).
+    - [ ] [evaluation](blog/evaluation.md)
 
     >TODO
     >Start with the key requirements/needs of the users / the company
