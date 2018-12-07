@@ -44,11 +44,16 @@ With the help of our personas and a basic understanding of our goal we could now
 The idea is to [brainstorm](https://github.com/eth-ait/hci-project-group-4/blob/master/content/brainstorm.md): thinking in any direction without caring about implementability or any other real world problems. Since there
 exist no bad ideas in this context, we had quite a bit of banter. ![Alt Text](https://media.giphy.com/media/3o6Ztd5vx7mxQ4AkQU/giphy.gif)
 
-From this we narrowed down and fleshed out three main iprototypes. Since we already had a lot of ideas through the brainstorm and the work done in the weeks before, this task was relatively easy. The hardest part was dumping glorious thoughts which turned out to be not that promising after all. We still tried to create three totaly different prototypes. Each one should solve the problem in it's own way to not miss any perspective. The result was [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototypes%20presentation.pdf) the week after in class to get a first review. After minor changes the ideas of our prototypes were presented our stakeholder Ivan.
+From this we narrowed down and fleshed out three main prototypes. Since we already had a lot of ideas through the brainstorm and the work done in the weeks before, this task was relatively easy. The hardest part was dumping glorious thoughts which turned out to be not that promising after all. We still tried to create three totaly different prototypes. Each one should solve the problem in it's own way to not miss any perspective. The result was [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototypes%20presentation.pdf) the week after in class to get a first review. After minor changes the ideas of our prototypes were presented our stakeholder Ivan.
 
 
-## Prototyping
+### Prototypes
+Like said before there are three main protorypes we made out of 
+
+
+
  - [x] [Prototyping tasks, and method](prototyping.md). Ideas and Paper Prototypes [here](https://drive.google.com/open?id=10CVHXfA1JW3Ph6q94s2lhHrnAcaD1S9m).
+
 
 ### Evaluation
 
