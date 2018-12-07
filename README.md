@@ -9,20 +9,27 @@
 
 See the [google drive folder](https://drive.google.com/folderview?id=1PBzoqfXrZz1RT7WT0kP88RAMHMnA3gEM).
 
-## Project description
+## W1: Project description
 
 The goal of this project is to improve the effectiveness of practise sessions when preparing for the performance of a musical piece.
 From this definition of our goal we understand the target audience to be musicians coming from the whole spectrum of expertise.
 Ranging from student to pro, we try to provide a way to plan and keep track of one's journey towards perfectioning each piece.  
 
-## Stakeholder
+## W2: Stakeholder
 The project was made in collaboration with Ivan Basic (ZHdK). We met with him in the second week to talk about his ideas and to get a better understanding of the project.
-Between the lines we read (other verb?) that some musicians have the problem of not being disciplined or losing focus when practicing. The project aims to resolve this and provide a way to bring structure to the musician's practice sessions.
+Between the lines we read (other verb?) that some musicians have the problem of not being disciplined or losing focus when practicing. See the [transcript of the meeting](https://github.com/eth-ait/hci-project-group-4/blob/master/content/transcript%20stakeholder%20meeting.md) for more details.
+The project therefore aims to resolve this issue and provide a way to bring structure to the musician's practice sessions.
 
-Fu
+
+
 See the [google drive folder](https://drive.google.com/drive/folders/1PBzoqfXrZz1RT7WT0kP88RAMHMnA3gEM) for everything, the [transcripts, recordings](https://drive.google.com/open?id=1kx0EszdkyByjEh_52i8lY7bDUfpFhElt) and [Ivan's practice formula](https://drive.google.com/open?id=1enS73yaeMvfAof8zEtGe3URoXVIFXiKN) .
 
-## Ideation
+## W3: Needfinding
+This week was about needfinding and getting a better understanding of the project. 
+Through the [affinity clustering](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity%20clustering.md), each member of the group recapitulated the discussion with Ivan and wrote down important observations.
+These observations got grouped together to form categories of our choice.
+
+## W4: Ideation
 
 Also see the [prototypes](#Prototyping) for proposed ideas
 
