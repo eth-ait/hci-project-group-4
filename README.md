@@ -25,19 +25,26 @@ The project therefore aims to resolve this issue and provide a way to bring stru
 See the [google drive folder](https://drive.google.com/drive/folders/1PBzoqfXrZz1RT7WT0kP88RAMHMnA3gEM) for everything, the [transcripts, recordings](https://drive.google.com/open?id=1kx0EszdkyByjEh_52i8lY7bDUfpFhElt) and [Ivan's practice formula](https://drive.google.com/open?id=1enS73yaeMvfAof8zEtGe3URoXVIFXiKN) .
 
 ## W3: Needfinding
-This week was about needfinding and getting a better understanding of the project. 
-Through the [affinity clustering](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity%20clustering.md), each member of the group recapitulated the discussion with Ivan and wrote down important observations.
-These observations got grouped together to form categories of our choice.
+This week was about needfinding and getting an even better understanding of the project. 
+Through the [affinity clustering](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity%20clustering.md), each member of the group recapitulated the discussion with Ivan and wrote down first observations. This required each team member to think about the meeting and find words for this persional impressions. 
+The Observations on the cards got grouped together to form categories of our choice. This process, and sharing the individual
+thoughts on each cards, lead us to broughter insights on the situation.
+
+We also invented three individual personas which should serve us as guidance. We created them such that they serve us as
+target audience. By describing their situation and therefore their needs, we now have good reference when making decisions.
+### The personas
+[Jason](https://github.com/eth-ait/hci-project-group-4/blob/master/content/persona%20jesse.pdf), 27, a typical music student looking for an efficient way to study.  
+[Alana](https://github.com/eth-ait/hci-project-group-4/blob/master/content/persona%20alana.pdf), 19, an ambitious high school student working towards a music competition while trying to have as much free time as possible.  
+[Jennifer](https://github.com/eth-ait/hci-project-group-4/blob/master/content/persona%20jennifer.pdf), 34, a music teacher looking for a way to help her students even when she's not around.
+
 
 ## W4: Ideation
 
-Also see the [prototypes](#Prototyping) for proposed ideas
+With the help of our personas and a basic understanding of our goal we could now explore the whole designspace we're in.
+The idea is to [brainstorm](https://github.com/eth-ait/hci-project-group-4/blob/master/content/brainstorm.md): thinking in any direction without caring about implementability or any other real world problems. Since there
+exist no bad ideas in this context, we had quite a bit of banter. ![Alt Text](https://media.giphy.com/media/3o6Ztd5vx7mxQ4AkQU/giphy.gif)
 
-See:
- - [x] affinity clustering [here](https://drive.google.com/open?id=1UqAm5M5Ioyaa5R3Kg8h9f8dVnJq6MgdC).
- - [x] Need finding [here](https://drive.google.com/open?id=1lp8kTtNNL11OaOj7rqZEuaVl0SLD0_f8).
- - [x] The [personas](blog/personas.md), are in the presentation (see below).
- - [x] 1st Presentation: [extended version](https://drive.google.com/open?id=101UhFm8z1LTBHFix8SN5eABZF9bke_wRTZJAJKXjmAU), (with personas, and more) made after the need finding.
+From this we narrowed down and fleshed out three main iprototypes. Since we already had a lot of ideas through the brainstorm and the work done in the weeks before, this task was relatively easy. The hardest part was dumping glorious thoughts which turned out to be not that promising after all. We still tried to create three totaly different prototypes. Each one should solve the problem in it's own way to not miss any perspective. The result was [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototypes%20presentation.pdf) the week after in class to get a first review. After minor changes the ideas of our prototypes were presented our stakeholder Ivan.
 
 
 ## Prototyping
