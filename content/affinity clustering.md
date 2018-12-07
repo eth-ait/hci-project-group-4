@@ -18,7 +18,7 @@ Date: 4/10/18
 
 - Individual
 - platform
-- 3 stages 
+- [3 stages](https://github.com/eth-ait/hci-project-group-4/blob/master/content/ivan's%20practice%20formula.pdf) 
 
 
 ### Need/Reason:
