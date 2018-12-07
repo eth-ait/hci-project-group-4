@@ -1,6 +1,6 @@
-<p align="left" width="100%">
-  <img style="width:30%;align:left" src="https://github.com/eth-ait/HCI-fall-2018-project-page/blob/master/img/logo-ait.png">
-</p>
+![eth](https://github.com/eth-ait/hci-project-group-4/blob/master/img/logo-eth.png)  
+![logo ait](https://github.com/eth-ait/hci-project-group-4/blob/master/img/logo-ait.png)
+
 
 # Music planing App, Group 4
 #### Fabian, Oliver, Guy and Pius
