@@ -48,8 +48,18 @@ From this we narrowed down and fleshed out three main prototypes. Since we alrea
 
 
 ### Prototypes
-Like said before there are three main protorypes we made out of 
+Like already said before, we created three main prototypes which could possible solve the goal. We tried to keep in mind our personas and the requirements we derived so far.  
 
+[10-pi](https://github.com/eth-ait/hci-project-group-4/blob/master/content/ten-pi_app_prototype.pdf), an app with inbuild functionality to plan and keep track of ones progress.   
+
+[bothofen](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_prototype.pdf), a small gadget providing deeper insight into the music played and a way to connect with peers or teachers. [sketch 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png), [sketch 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png), [sketch 3](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png),  
+
+[pi-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf), a smart piano including pretty much everything the two prototypes above provide.  
+
+After a short discussion with our stakeholder Ivan it was clear to everyone that the app serves our goal and that we'd focus on this prototype. It made sense to us due to it's easy deployment and because everyone knows instantly how to use it. Furthermore, most people carry their phone with them already most of the time and it is capable of solving what we expect it to. The other prototypes helped us gaining insight into how the goals could also be achieved if portability was not a criteria. Unforunately it is and therefore we thought that we may overshoot the goal with a self-contained physical instance, even though it could provide even more than an app.
+
+We created multiple paper prototypes of the app to get a feel for it. Each team member drew it's own paper prototype. Like this, each team member created it's own first app paper prototype unbiased. We created a [rough outline](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototyping_outline.md) so we could combine possibly good ideas more easily with each other. 
+The result was a discussion of the result with each team member already having an own point of view. We sat down multiple times in the team, talking to potential future users in between, to get a feel what we need. 
 
 
  - [x] [Prototyping tasks, and method](prototyping.md). Ideas and Paper Prototypes [here](https://drive.google.com/open?id=10CVHXfA1JW3Ph6q94s2lhHrnAcaD1S9m).
