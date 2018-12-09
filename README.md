@@ -78,9 +78,9 @@ The study was shortly [presented](https://github.com/eth-ait/hci-project-group-4
 
 
 ### TODO:
- [] Video
- [] Prototype for video?
- [] remove gif from blog
+ - [] Video  
+ - [] Prototype for video?  
+ - [] remove gif from blog  
  
 ### Notes:
 Please leave files in content folder, so that references work correctly
