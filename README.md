@@ -11,18 +11,26 @@ See the [google drive folder](https://drive.google.com/folderview?id=1PBzoqfXrZz
 
 ## W1: Project description
 
-The goal of this project is to improve the effectiveness of practise sessions when preparing for the performance of a musical piece.
-From this definition of our goal we understand the target audience to be musicians coming from the whole spectrum of expertise.
-Ranging from student to pro, we try to provide a way to plan and keep track of one's journey towards perfectioning each piece.  
+The goal of this project is to improve the effectiveness and focus during practise sessions when preparing for the performance of a musical pieces.
+From our goal we understand the target audience to be musicians coming from a whole spectrum of expertise;
+ranging from student to professional.
+In summary we will try to provide a way to plan and keep track of one's journey towards perfecting each piece.
 
 ## W2: Stakeholder
-The project was made in collaboration with Ivan Basic (ZHdK). We met with him in the second week to talk about his ideas and to get a better understanding of the project.
-Between the lines we read (other verb?) that some musicians have the problem of not being disciplined or losing focus when practicing. See the [transcript of the meeting](https://github.com/eth-ait/hci-project-group-4/blob/master/content/transcript%20stakeholder%20meeting.md) for more details.
-The project therefore aims to resolve this issue and provide a way to bring structure to the musician's practice sessions.
+The project is made in collaboration with [Ivan Basic (ZHdK)](https://www.zhdk.ch/person/211783).
+We met with him in the second week to talk about his ideas and the project to get a better understanding of the project.
+Before meeting we had each individually formed some ideas and understanding of what the project might be about.
+This was beneficial as we could present some ideas to Ivan that were not all necessarily relevant to the core ideas of the project but could be relevant in the future.
+Meeting  with Ivan was essential for us to really understand what the project was about.
+Ivan explained to us also how precious practice time is, as the practice rooms are in high demand, and users only have a limited amount of time.
+We came to understand that playing music can deceptively appear -  even to the musician who is playing -  as practicing, but without focus a practice session can be inefficient, and actually waste the time of the musician.
+Through our discussion with Ivan, we came to understand that, the core of the problem is that many musicians have the problem with a lack of discipline and often lose focus of the goals of the session when practicing.
+The project's primary aim is to resolve this issue and provide a way to bring structure to the musician's practice sessions to ensure the musician's goals, both long-term, and immediate, are be met.
+\
+We asked Ivan to write down his 'practice process' to gain insight into the long term practice process.
+Here are  [transcripts and recordings of the meeting](https://github.com/eth-ait/hci-project-group-4/blob/master/content/transcript%20stakeholder%20meeting.md) and [Ivan's practice formula](https://drive.google.com/open?id=1enS73yaeMvfAof8zEtGe3URoXVIFXiKN).
 
-
-
-See the [google drive folder](https://drive.google.com/drive/folders/1PBzoqfXrZz1RT7WT0kP88RAMHMnA3gEM) for everything, the [transcripts, recordings](https://drive.google.com/open?id=1kx0EszdkyByjEh_52i8lY7bDUfpFhElt) and [Ivan's practice formula](https://drive.google.com/open?id=1enS73yaeMvfAof8zEtGe3URoXVIFXiKN) .
+Additionally see the [google drive folder](https://drive.google.com/drive/folders/1PBzoqfXrZz1RT7WT0kP88RAMHMnA3gEM) for everything related to the project. 
 
 ## W3: Needfinding
 This week was about needfinding and getting an even better understanding of the project. 
@@ -66,6 +74,12 @@ We created multiple paper prototypes of the app to get a feel for it. See the pr
 Each team member drew it's own paper prototype. Like this, each team member created it's own first app paper prototype unbiased. We created a [rough outline](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototyping_outline.md) so we could combine possibly good ideas more easily with each other. 
 The result was a discussion of the result with each team member already having an own point of view. We sat down multiple times in the team, talking to potential future users in between, to get a feel what we need. In this stage the prototypes where still low-fi, which made the re-evaluation pretty easy.  
 We started to code an own app, as the picture of the end software became more clear. Furthermore, we started to use reference of functionalities of already consisting apps. See here: [App impression 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg), [App impression 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg), [Sleeping App Reference](https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg).
+
+- [ ] blog post format
+    - [ ] [personas](blog/personas.md)
+    - [ ] [initial ideas](blog/initial_ideas.md).
+    - [ ] [evaluation](blog/evaluation.md)
+- [ ] Consider mute notifications/silent mode
 
 ### W8: User Study
 
