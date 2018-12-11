@@ -6,13 +6,43 @@
 #### Fabian, Oliver, Guy and Pius
 
 
-## TODO
+## META:
 
-- [ ] blog post format
-    - [ ] [personas](blog/personas.md)
-    - [ ] [initial ideas](blog/initial_ideas.md).
-    - [ ] [evaluation](blog/evaluation.md)
+### TODO:
+
+#### Blog
+
+- [  ] make the jpegs display in the blog post
+- [  ] add under text for the:
+    - [  ] app impressions,
+    - [  ] prototypes, 
+    - [  ] sketches 
+    - [  ] affinity clustering
+- [  ] @Oli, can you please upload a pdf file with the name excel_raw_study_data.pdf to content folder. There exist multiple versions on drive, i don't know which one is correct. Already linked it, should work with correct name...
+- [  ]  blog post format
+    - [  ] [personas](blog/personas.md)
+    - [  ] [initial ideas](blog/initial_ideas.md).
+    - [  ] [evaluation](blog/evaluation.md)
+
+
+#### OVERALL
+
+ - [ ] Video
+ - [ ] Prototype for video?
+ - [ ] remove gif from blog
+
+#### App
+
 - [ ] Consider mute notifications/silent mode
+ 
+### Note:
+
+Please leave files in content folder, so that references work correctly
+
+
+<<< CONTENT STARTS BELOW >>>
+
+---
 
 ## Resources here:
 
@@ -70,7 +100,6 @@ By describing their situation and therefore their needs, we now have good refere
 
 [Jennifer](https://github.com/eth-ait/hci-project-group-4/blob/master/content/persona%20jennifer.pdf), 34, a music teacher looking for a way to help her students even when she's not around.
 
-
 ## W4: Ideation
 
 With the help of our personas and an understanding of our goal we could now explore the whole designspace we are in.
@@ -82,7 +111,7 @@ Since we already had a lot of ideas through the brainstorm and the work done in 
 The hardest part was dumping *glorious thoughts* which turned out to be *not* so promising after all.
 Still, we tried to create three totally different prototypes.
 Each one tried to solve the problem in it's own way so as not miss any perspective, each combining more combinations of ideas we from the brainstorming process.
-The results we [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototypes%20presentation.pdf) the week after in class to get a [first feedback](https://github.com/eth-ait/hci-project-group-4/blob/master/content/feedback_presentation. md).
+The results we [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototypes%20presentation.pdf) the week after in class to get a [first feedback](https://github.com/eth-ait/hci-project-group-4/blob/master/content/feedback_presentation.md).
 After minor changes the ideas of our prototypes were presented our stakeholder Ivan.
 
 
@@ -91,15 +120,16 @@ After minor changes the ideas of our prototypes were presented our stakeholder I
 As mentioned before, we created three different prototypes which could possibly solve the goal.
 When designing them we tried to keep in mind our personas, e.g. *'Alana would not like this ... this is prefect for Jason.'* and the requirements we had derived so far.
 
-#### [10-π](https://github.com/eth-ait/hci-project-group-4/blob/master/content/ten-pi_app_prototype.pdf)  -* ˈtɛmpiː *
+#### [10-π](https://github.com/eth-ait/hci-project-group-4/blob/master/content/ten-pi_app_prototype.pdf)  - ˈtɛmpiː
 
 An app with inbuilt functionality to plan and keep track of ones progress.
 
-#### [bothofen](https://github.com/eth-ait/hci-project-group-4/blob/master/cont ent/bothofen_prototype.pdf) - *ˈbeɪˌtoʊvən/*
+#### [bothofen](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_prototype.pdf) - ˈbeɪˌtoʊvən
 
 A small gadget providing deeper insight into the music played and a way to connect with peers or teachers. [sketch 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png), [sketch 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png), [sketch 3](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png).
 
-#### π-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf) *-piˈænəʊ*
+#### [π-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf) -piˈænəʊ
+
 A smart piano including pretty much everything the two prototypes above provide.
 /pi
 After a short discussion with our stakeholder, Ivan, it was clear to everyone that the app serves our goal and users best and that we'd focus on this prototype.
@@ -127,21 +157,18 @@ See here: [App impression 1](https://github.com/eth-ait/hci-project-group-4/blob
 
 ### W8: User Study
 
-After reaching a coarse vision and prototype of our end product a user study would give us feedback on where we stand so far and what needs to be changed. The exercise was to design and conduct a user study/heuristic evaluation with our prototype. Like this we should asses the usability of our design.
+After reaching a coarse vision and prototype of our end product a user study would give us feedback on where we stand so far and what needs to be changed.
+The exercise was to design and conduct a user study/heuristic evaluation with our prototype.
+Like this we should asses the usability of our design.
 
-We set up a study and evaluated it. The [Detailed Study Report](https://github.com/eth-ait/hci-project-group-4/blob/master/content/detailed_study_report.pdf) contains our hypothesis, the methods we checked those and a short summary. The [Study Evaluation](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_evaluation.pdf) shows the result of the study, statistics we extracted out of the data commented by us. We attained the data by conducting the tests desribed in the detailed study report and wrote down the result in an [Evaluation Form](https://docs.google.com/forms/d/1mMPWOriXPx2D7pERDGj-8rZW28IvjL5L10zMLD73cyg/viewform?edit_requested=true). The raw data can be seen [here](https://github.com/eth-ait/hci-project-group-4/blob/master/content/excel_raw_study_data.pdf). 
-TODO: @Oli, can you please upload a pdf file with the name excel_raw_study_data.pdf to content folder. There exist multiple versions on drive, i don't know which one is correct. Already linked it, should work with correct name...
+We set up a study and evaluated it.
+The [Detailed Study Report](https://github.com/eth-ait/hci-project-group-4/blob/master/content/detailed_study_report.pdf) contains our hypothesis, the methods we checked those and a short summary.
+The [Study Evaluation](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_evaluation.pdf) shows the result of the study, statistics we extracted out of the data commented by us.
+We attained the data by conducting the tests desribed in the detailed study report and wrote down the result in an [Evaluation Form](https://docs.google.com/forms/d/1mMPWOriXPx2D7pERDGj-8rZW28IvjL5L10zMLD73cyg/viewform?edit_requested=true).
+The raw data can be seen [here](https://github.com/eth-ait/hci-project-group-4/blob/master/content/excel_raw_study_data.pdf). 
+
 
 The study was shortly [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_presentation.pdf) to class and to our stakeholder Ivan along with the reports.
-
-
-### TODO:
- - [] Video  
- - [] Prototype for video?  
- - [] remove gif from blog  
- 
-### Notes:
-Please leave files in content folder, so that references work correctly
 
 ## Final solution
 
