@@ -13,12 +13,12 @@
 #### Blog
 
 - [x] make the jpegs display in the blog post
+-   [x] The images need to be resized, they appear HUGE
 - [ ] add under text for the:
     - [ ] app impressions,
     - [ ] prototypes, 
     - [ ] sketches 
     - [ ] affinity clustering
-- [ ] @Oli, can you please upload a pdf file with the name excel_raw_study_data.pdf to content folder. There exist multiple versions on drive, i don't know which one is correct. Already linked it, should work with correct name...
 - [ ]  blog post format
     - [ ] [personas](blog/personas.md)
     - [ ] [initial ideas](blog/initial_ideas.md).
@@ -129,12 +129,15 @@ An app with inbuilt functionality to plan and keep track of ones progress.
 #### [bothofen](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_prototype.pdf) 
 - ˈbeɪˌtoʊvən
 
-A small gadget providing deeper insight into the music played and a way to connect with peers or teachers. [sketch 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png), [sketch 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png), [sketch 3](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png).
+A small gadget providing deeper insight into the music played and a way to connect with peers or teachers. 
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png" alt="sketch 1" width="300" />
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png" alt="sketch 2" width="300" />
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png" alt="sketch 3" width="300" />
 
-#### [π-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf) -piˈænəʊ
+#### [π-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf) 
+- piˈænəʊ
 
 A smart piano including pretty much everything the two prototypes above provide.
-/pi
 
 #### Paper Prototypes
 
@@ -159,10 +162,10 @@ At this stage the prototypes where still low-fi, which made the re-evaluation pr
 We started to code our own app, as the picture of the end software became more clear.
 Furthermore, we started to use reference of functionalities of already existing apps that had features we liked.
 \
-See here:
-![App impression 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg),
-![App impression 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg),
-![Sleeping App Reference](https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg).
+See below:
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg" alt="App impression 1" width:"200"/>
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg" alt="App impression 2" width:"200"/>
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width:"200"/>![](https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg).
 After composing a vision of the project as a whole and producing a coarse prototype getting feedback is required.
 
 
