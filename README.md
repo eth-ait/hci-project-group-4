@@ -12,17 +12,17 @@
 
 #### Blog
 
-- [  ] make the jpegs display in the blog post
-- [  ] add under text for the:
-    - [  ] app impressions,
-    - [  ] prototypes, 
-    - [  ] sketches 
-    - [  ] affinity clustering
-- [  ] @Oli, can you please upload a pdf file with the name excel_raw_study_data.pdf to content folder. There exist multiple versions on drive, i don't know which one is correct. Already linked it, should work with correct name...
-- [  ]  blog post format
-    - [  ] [personas](blog/personas.md)
-    - [  ] [initial ideas](blog/initial_ideas.md).
-    - [  ] [evaluation](blog/evaluation.md)
+- [x] make the jpegs display in the blog post
+- [ ] add under text for the:
+    - [ ] app impressions,
+    - [ ] prototypes, 
+    - [ ] sketches 
+    - [ ] affinity clustering
+- [ ] @Oli, can you please upload a pdf file with the name excel_raw_study_data.pdf to content folder. There exist multiple versions on drive, i don't know which one is correct. Already linked it, should work with correct name...
+- [ ]  blog post format
+    - [ ] [personas](blog/personas.md)
+    - [ ] [initial ideas](blog/initial_ideas.md).
+    - [ ] [evaluation](blog/evaluation.md)
 
 
 #### OVERALL
@@ -79,10 +79,10 @@ Through [affinity clustering](https://github.com/eth-ait/hci-project-group-4/blo
 This required each team member to think about the meeting and find words for their personal impressions.
 The Observations on the cards got grouped together to form categories of our choice.
 This process, and sharing the individual thoughts on each cards, lead us to better insights on the situation and project as a whole.
-[affinity clustering 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_1.jpeg), 
-[affinity clustering 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_2.jpeg),
-[affinity clustering 3](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_3.jpeg),
-[affinity clustering 4](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_4.jpeg).
+![affinity clustering 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_1.jpeg),
+![affinity clustering 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_2.jpeg),
+![affinity clustering 3](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_3.jpeg),
+![affinity clustering 4](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_4.jpeg).
 
 ### Personas
 
@@ -100,11 +100,12 @@ By describing their situation and therefore their needs, we now have good refere
 
 [Jennifer](https://github.com/eth-ait/hci-project-group-4/blob/master/content/persona%20jennifer.pdf), 34, a music teacher looking for a way to help her students even when she's not around.
 
+
 ## W4: Ideation
 
 With the help of our personas and an understanding of our goal we could now explore the whole designspace we are in.
 The idea is to [brainstorm](https://github.com/eth-ait/hci-project-group-4/blob/master/content/brainstorm.md): thinking in any direction without caring about implementability or any other real world problems.
-Since there exist no bad ideas in this context, we had both serious ideas and quite a bit of banter that lead us into interesting areas. ![Alt Text](https://media.giphy.com/media/3o6Ztd5vx7mxQ4AkQU/giphy.gif)
+Since there exist no bad ideas in this context, we had both serious ideas and quite a bit of banter that lead us into interesting areas.
 
 From this we narrowed down and fleshed out three main prototypes.
 Since we already had a lot of ideas through the brainstorm and the work done in the weeks before, this task was relatively easy.
@@ -120,11 +121,13 @@ After minor changes the ideas of our prototypes were presented our stakeholder I
 As mentioned before, we created three different prototypes which could possibly solve the goal.
 When designing them we tried to keep in mind our personas, e.g. *'Alana would not like this ... this is prefect for Jason.'* and the requirements we had derived so far.
 
-#### [10-π](https://github.com/eth-ait/hci-project-group-4/blob/master/content/ten-pi_app_prototype.pdf)  - ˈtɛmpiː
+#### [10-π](https://github.com/eth-ait/hci-project-group-4/blob/master/content/ten-pi_app_prototype.pdf)  
+- ˈtɛmpiː
 
 An app with inbuilt functionality to plan and keep track of ones progress.
 
-#### [bothofen](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_prototype.pdf) - ˈbeɪˌtoʊvən
+#### [bothofen](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_prototype.pdf) 
+- ˈbeɪˌtoʊvən
 
 A small gadget providing deeper insight into the music played and a way to connect with peers or teachers. [sketch 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png), [sketch 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png), [sketch 3](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png).
 
@@ -132,6 +135,9 @@ A small gadget providing deeper insight into the music played and a way to conne
 
 A smart piano including pretty much everything the two prototypes above provide.
 /pi
+
+#### Paper Prototypes
+
 After a short discussion with our stakeholder, Ivan, it was clear to everyone that the app serves our goal and users best and that we'd focus on this prototype.
 It made sense to us due to it's easy deployment and because almost everyone knows instantly how to use it.
 Furthermore, most people carry their phone with them already most of the time and it is capable of solving what we expect it to.
@@ -152,25 +158,34 @@ We sat down multiple times in the team, talking to potential future users in bet
 At this stage the prototypes where still low-fi, which made the re-evaluation pretty easy, however at some times it could be hard for users to come to the same understanding of how some of the functionalities might work, e.g. a pulsating screen as a metronome.
 We started to code our own app, as the picture of the end software became more clear.
 Furthermore, we started to use reference of functionalities of already existing apps that had features we liked.
-See here: [App impression 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg), [App impression 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg), [Sleeping App Reference](https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg).
+\
+See here:
+![App impression 1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg),
+![App impression 2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg),
+![Sleeping App Reference](https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg).
+After composing a vision of the project as a whole and producing a coarse prototype getting feedback is required.
 
 
 ### W8: User Study
 
-After reaching a coarse vision and prototype of our end product a user study would give us feedback on where we stand so far and what needs to be changed.
 The exercise was to design and conduct a user study/heuristic evaluation with our prototype.
-Like this we should asses the usability of our design.
+To get this feedback a user study is required to confirm and refute our assumptions.
+We focussed on producing low fidelity prototypes so that we could test different ideas we had and get feedback from potential users.
+With this we should assess the usability of our design.
 
-We set up a study and evaluated it.
-The [Detailed Study Report](https://github.com/eth-ait/hci-project-group-4/blob/master/content/detailed_study_report.pdf) contains our hypothesis, the methods we checked those and a short summary.
-The [Study Evaluation](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_evaluation.pdf) shows the result of the study, statistics we extracted out of the data commented by us.
-We attained the data by conducting the tests desribed in the detailed study report and wrote down the result in an [Evaluation Form](https://docs.google.com/forms/d/1mMPWOriXPx2D7pERDGj-8rZW28IvjL5L10zMLD73cyg/viewform?edit_requested=true).
+
+
+We designed a study and evaluated it.
+The [Detailed Study Report](https://github.com/eth-ait/hci-project-group-4/blob/master/content/detailed_study_report.pdf) contains our hypotheses, the methods we used to checked those and a short summary.
+The [Study Evaluation](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_evaluation.pdf) shows the result of the study, statistics we extracted out of the data commented on it by us.
+We attained the data by conducting the tests described in the detailed study report and wrote down the result in an [Evaluation Form](https://docs.google.com/forms/d/1mMPWOriXPx2D7pERDGj-8rZW28IvjL5L10zMLD73cyg/viewform?edit_requested=true).
 The raw data can be seen [here](https://github.com/eth-ait/hci-project-group-4/blob/master/content/excel_raw_study_data.pdf). 
+We [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_presentation.pdf) the study to the class and to our stakeholder - Ivan - along with the reports.
+The study provided us with useful insight as to what we needed to prioritise and some concrete things to change; for example some of the buttons in our test prototype had misleading and confusing names for the task they were intended.
+The feedback provided by the user study showed us where the project stands as a whole and gave us a way forward with the project.
 
 
-The study was shortly [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_presentation.pdf) to class and to our stakeholder Ivan along with the reports.
-
-## Final solution
+## Final design
 
 
 TODO
