@@ -163,9 +163,9 @@ We started to code our own app, as the picture of the end software became more c
 Furthermore, we started to use reference of functionalities of already existing apps that had features we liked.
 \
 See below:
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg" alt="App impression 1" width:"200"/>
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg" alt="App impression 2" width:"200"/>
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width:"200"/>![](https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg).
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg" alt="App impression 1" width="200"/>
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg" alt="App impression 2" width="200"/>
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width="200"/>![](https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg).
 After composing a vision of the project as a whole and producing a coarse prototype getting feedback is required.
 
 
