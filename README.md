@@ -130,9 +130,9 @@ An app with inbuilt functionality to plan and keep track of ones progress.
 - ˈbeɪˌtoʊvən
 
 A small gadget providing deeper insight into the music played and a way to connect with peers or teachers. 
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png" alt="sketch 1" width="300" />
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png" alt="sketch 2" width="300" />
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png" alt="sketch 3" width="300" />
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png" alt="sketch 1" width="300" >
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png" alt="sketch 2" width="300" >
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png" alt="sketch 3" width="300" >
 
 #### [π-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf) 
 - piˈænəʊ
@@ -182,7 +182,7 @@ We designed a study and evaluated it.
 The [Detailed Study Report](https://github.com/eth-ait/hci-project-group-4/blob/master/content/detailed_study_report.pdf) contains our hypotheses, the methods we used to checked those and a short summary.
 The [Study Evaluation](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_evaluation.pdf) shows the result of the study, statistics we extracted out of the data commented on it by us.
 We attained the data by conducting the tests described in the detailed study report and wrote down the result in an [Evaluation Form](https://docs.google.com/forms/d/1mMPWOriXPx2D7pERDGj-8rZW28IvjL5L10zMLD73cyg/viewform?edit_requested=true).
-The raw data can be seen [here](https://github.com/eth-ait/hci-project-group-4/blob/master/content/excel_raw_study_data.pdf). 
+The raw data can be seen [here](https://github.com/eth-ait/hci-project-group-4/blob/master/content/excel_raw_study_data.xlsx). 
 We [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_presentation.pdf) the study to the class and to our stakeholder - Ivan - along with the reports.
 The study provided us with useful insight as to what we needed to prioritise and some concrete things to change; for example some of the buttons in our test prototype had misleading and confusing names for the task they were intended.
 The feedback provided by the user study showed us where the project stands as a whole and gave us a way forward with the project.
