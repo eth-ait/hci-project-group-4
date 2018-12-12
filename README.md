@@ -14,10 +14,9 @@
 
 - [x] make the jpegs display in the blog post
 -   [x] The images need to be resized, they appear HUGE
-- [ ] add under text for the:
+- [ ] add caption text for the images:
     - [ ] app impressions,
-    - [ ] prototypes, 
-    - [ ] sketches 
+    - [ ] sketches,
     - [ ] affinity clustering
 - [ ]  blog post format
     - [ ] [personas](blog/personas.md)
@@ -130,9 +129,9 @@ An app with inbuilt functionality to plan and keep track of ones progress.
 - ˈbeɪˌtoʊvən
 
 A small gadget providing deeper insight into the music played and a way to connect with peers or teachers. 
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png" alt="sketch 1" width="300" >
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png" alt="sketch 2" width="300" >
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png" alt="sketch 3" width="300" >
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png" alt="sketch 1" width="300" />
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png" alt="sketch 2" width="300" />
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png" alt="sketch 3" width="300" />
 
 #### [π-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf) 
 - piˈænəʊ
@@ -165,7 +164,7 @@ Furthermore, we started to use reference of functionalities of already existing 
 See below:
 <img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg" alt="App impression 1" width="200"/>
 <img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg" alt="App impression 2" width="200"/>
-<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width="200"/>![](https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg).
+<img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width="200"/>
 After composing a vision of the project as a whole and producing a coarse prototype getting feedback is required.
 
 
