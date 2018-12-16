@@ -23,13 +23,11 @@ structure their practice sessions, and keep track of their progress whilst provi
 
 You don't practice for no reason.
 Whether you are developing your skills or working towards a performance.
-Tempi helps track your progress towards your goals across practice sessions with the project
-explorer.
+Tempi tracks your progress towards your goals across practice sessions with the project explorer.
 
 ## 1.03practicesession
 
-Since time is precious during a practice session, tempi is structured around planning and tracking
-practice sessions.
+Time is precious, to get the most out of your time, Tempi is structured around planning and tracking practice sessions
 
 ## 1.04createtask (8.1)
 
@@ -43,16 +41,13 @@ Organise your practice sessions around these tasks and track your progress.
 
 ... and be motivated with rewards for your accomplishments!
 
-## 1.08tools (11.1)
+## 1.07tools (11.1)
 
-Everything important for practice can be found in the one place, so you can get to what really
-matters right away.
+Everything important can be found in the one place, so you can get to what really matters right away.
 
-## 1.07tools (10)
+## 1.08tools (10)
 
-The Tempi app means there is no need to search for your essential tools, notes, and recordings.
-
-### 1.08tools(metronome)
+The Tempi app means there is no need to search for your essential tools, notes, or recordings.
 
 They are always handy, on your handy.
 
@@ -61,15 +56,17 @@ They are always handy, on your handy.
 All your sessions and tasks are recorded so you can easily share...
 
 ## 1.10bus
-
-or so as not to disrupt your flow; listen, make notes, and plan your next session at a more convenient time.
+<!-- This one maybe should be reworked  -->
+listen, or make notes - whether during your practice or at a more convenient time.
 
 ## 2.01Outro
 
-Tempi helps you track your progress and address your problem areas, in a focussed and efficient
-manner.
+Tempi helps you track your progress and address your problem areas, in a focussed and efficient manner.
+
+## 2.02Outro
+
 It is the partner for musicians at any level, to practice what matters.
 With that, you'll achieve any goal.
 
-## 2.02tagline????
+## 2.03tagline????
 Tempi - your partner in practice.
