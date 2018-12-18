@@ -190,8 +190,6 @@ The feedback provided by the user study showed us where the project stands as a 
 ## Final design
 
 
-TODO
-    > TODO
-    > Describe your final solution to the problem and the prototype you developed in more detail here.
-    > Upload your video to the "deliverables" folder and include the link here. 
-    > (Weeks 10-14)
+The final Video can be found at
+https://drive.google.com/open?id=1vYRiSGH3-PIHuf1GDOifW6OC8yPEbuct
+For the full quality version. A low res version is in the folder Deliverables.
