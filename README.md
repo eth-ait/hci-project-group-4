@@ -191,5 +191,4 @@ The feedback provided by the user study showed us where the project stands as a 
 
 
 The final Video can be found at
-https://drive.google.com/open?id=1vYRiSGH3-PIHuf1GDOifW6OC8yPEbuct
-For the full quality version. A low res version is in the folder Deliverables.
+https://drive.google.com/open?id=1vYRiSGH3-PIHuf1GDOifW6OC8yPEbuct , for the full quality version. A low res version is in the folder Deliverables.
