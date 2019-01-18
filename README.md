@@ -189,6 +189,10 @@ The feedback provided by the user study showed us where the project stands as a 
 
 ## Final design
 
+## Video
+Besides the app we made a video about our result. We tried to capture the reason for the app and the solution it provides. Furthermore, it should tell a story that's somehow relatable for musicians. In the beginning we sketched out real life scenes the video could include, showing such relatable situations. We later came to the conclusion that every person knows this problem in his own way. We therefore tried to formulate the problem in the Video in a way that everyone can relate to the problem in it's personal way. 
+Besides the problem we shortly introduced the app. Since the app is still just a prototype we didn't capture the app and it's functionality well, which was a feedback we got. 
+For the video we used a programm called VideoScribe. With this app one can narrate a story in a "scribble" kind of way. 
 
 The final Video can be found at
 https://drive.google.com/open?id=1vYRiSGH3-PIHuf1GDOifW6OC8yPEbuct , for the full quality version. A low res version is in the folder Deliverables.
