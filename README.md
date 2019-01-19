@@ -41,7 +41,9 @@ Through [affinity clustering](content/affinity%20clustering.md), each member of 
 This required each team member to think about the meeting and find words for their personal impressions.
 The Observations on the cards got grouped together to form categories of our choice.
 This process, and the process of sharing our individual thoughts on cards, lead us to better insights on the situation and the project as a whole.
-See the images below for the results - click on the images to enlargen.
+See the images below for the results - click on the images to view enlargen.
+
+
 <a target="_blank" rel="noopener noreferrer" href="content/affinity_clustering_1.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_1.jpeg" alt="affinity clustering 1" width=400 /></a>
 <a target="_blank" rel="noopener noreferrer" href="content/affinity_clustering_2.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_2.jpeg" alt="affinity clustering 1" width=400 /></a>
 <a target="_blank" rel="noopener noreferrer" href="content/affinity_clustering_3.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_3.jpeg" alt="affinity clustering 1" width=400 /></a>
@@ -138,9 +140,12 @@ We started to code our own app, as the picture of the end software became more c
 The priorities for development first were to test very limited navigation options.
 Furthermore, we started to use reference of functionalities of already existing apps that had features we liked.
 \
-See below:
+We discussed having large button navigation, and drawer navigation.
+\
 <a target="_blank" rel="noopener noreferrer" href="content/app_review_1.jpg"><img src="content/app_review_1.jpg" alt="App impression 1" width=400 /></a>
 <a target="_blank" rel="noopener noreferrer" href="content/app_review_2.jpg"><img src="content/app_review_2.jpg" alt="App impression 2" width=400 /></a>
+\
+The sleeping app review screen was a nice mixture of review, and the ability to easily make notes.\
 <a target="_blank" rel="noopener noreferrer" href="content/sleeping_app_review_1.jpg"><img src="content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width=400 /></a>
 
 After composing a vision of the project as a whole and producing a coarse prototype getting feedback from potential users is needed.
