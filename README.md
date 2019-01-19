@@ -42,10 +42,10 @@ This required each team member to think about the meeting and find words for the
 The Observations on the cards got grouped together to form categories of our choice.
 This process, and the process of sharing our individual thoughts on cards, lead us to better insights on the situation and the project as a whole.
 See the images below for the results - click on the images to enlargen.
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_1.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_1.jpeg" alt="affinity clustering 1" style="max-width:20%;"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_2.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_2.jpeg" alt="affinity clustering 1" style="max-width:20%;"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_3.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_3.jpeg" alt="affinity clustering 1" style="max-width:20%;"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_4.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_4.jpeg" alt="affinity clustering 1" style="max-width:20%;"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_1.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_1.jpeg" alt="affinity clustering 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_2.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_2.jpeg" alt="affinity clustering 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_3.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_3.jpeg" alt="affinity clustering 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_4.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_4.jpeg" alt="affinity clustering 1" width=400 /></a>
 
 
 ### Personas
@@ -99,9 +99,9 @@ An app with inbuilt functionality to plan and keep track of ones progress.
 
 A small gadget providing deeper insight into the music played and a way to connect with peers or teachers.
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png" alt="sketch 1" style="max-width:30%;"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png" alt="sketch 2" style="max-width:30%;"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png" alt="sketch 3" style="max-width:30%;"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png" alt="sketch 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png" alt="sketch 2" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png" alt="sketch 3" width=400 /></a>
 
 #### [π-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf) 
 
@@ -138,9 +138,9 @@ The priorities for development first were to test very limited navigation option
 Furthermore, we started to use reference of functionalities of already existing apps that had features we liked.
 \
 See below:
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg" alt="App impression 1" style="max-width:30%;"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg" alt="App impression 2" style="max-width:30%;"/></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" style="max-width:30%;"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg" alt="App impression 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg" alt="App impression 2" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width=400 /></a>
 
 After composing a vision of the project as a whole and producing a coarse prototype getting feedback from potential users is needed.
 
