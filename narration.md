@@ -10,6 +10,11 @@ struggling to recall what they really need to work on to improve.
 
 It does not matter whether you are studying music in the conservatories or a hobbyist; staying motivated and focussed in pursuit of your goals is hard.
 
+## 0.02IntroRefocus
+
+It does not matter whether you are studying music in the conservatorium or a hobbyist; staying motivated and focussed in pursuit of your goals is hard.
+
+
 ## 0.03Intro
 
 That's why we created Tem-Pi, the musicians' app.
