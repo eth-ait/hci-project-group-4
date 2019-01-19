@@ -230,3 +230,8 @@ We met with Ivan some time after the presentation.
 Due to the Christmas break and Ivan's busy schedule he had not been able to see the final video.
 We presented the video, the app, and discussed various aspects, improvements, and showed where some of the 'obvious' additions we didn't have time for (additional navigation) should be made.
 We discussed the intellectual property rights (see the [minutes](content/final_meeting.md)) and gave our thoughts on how developing the idea further could be best done with the materials we have produced.
+
+## Final Prototype
+
+A final, hi- fi, prototype can be found here: [Android](https://drive.google.com/open?id=1atrblwjzdwAK-jndmqYap3mZBqOFUdvZ)
+It features a basic implementation of the navigation system, our Project tracker and our Diary to track planned sessions.
