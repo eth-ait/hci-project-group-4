@@ -233,5 +233,6 @@ We discussed the intellectual property rights (see the [minutes](content/final_m
 
 ## Final Prototype
 
-A final, hi- fi, prototype can be found here: [Android](https://drive.google.com/open?id=1atrblwjzdwAK-jndmqYap3mZBqOFUdvZ)
+A final, hi- fi, prototype can be found here: [(Android)](https://drive.google.com/open?id=1atrblwjzdwAK-jndmqYap3mZBqOFUdvZ)
+
 It features a basic implementation of the navigation system, our Project tracker and our Diary to track planned sessions.
