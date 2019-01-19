@@ -1,5 +1,5 @@
-![eth](https://github.com/eth-ait/hci-project-group-4/blob/master/img/logo-eth.png)  
-![logo ait](https://github.com/eth-ait/hci-project-group-4/blob/master/img/logo-ait.png)
+![eth](img/logo-eth.png)  
+![logo ait](img/logo-ait.png)
 
 
 # Music planing App, Group 4
@@ -15,8 +15,8 @@ In summary we will try to provide a way to plan and keep track of one's journey 
 
 ### Resources here:
 
+The [content folder](./content/) and [Deliverables](./Deliverables/) has 'final versions' of the material we generated and should be referred to first.
 The material created is stored in a [google drive folder](https://drive.google.com/folderview?id=1PBzoqfXrZz1RT7WT0kP88RAMHMnA3gEM) and the [content folder](content/).
-The [content folder](./content/) has 'final versions' of and should be referred to first.
 
 ## W2: Stakeholder
 
@@ -31,24 +31,24 @@ Through our discussion with Ivan, we came to understand that, the core of the pr
 The project's primary aim is to resolve this issue and provide a way to bring structure to the musician's practice sessions to ensure the musician's goals, both long-term, and immediate, are be met.
 \
 We asked Ivan to write down his 'practice process' to gain insight into the long term practice process.
-Here are  [transcripts and recordings of the meeting](https://github.com/eth-ait/hci-project-group-4/blob/master/content/transcript%20stakeholder%20meeting.md) and [Ivan's practice formula](https://drive.google.com/open?id=1enS73yaeMvfAof8zEtGe3URoXVIFXiKN).
+Here are  [transcripts and recordings of the meeting](content/transcript%20stakeholder%20meeting.md) and [Ivan's practice formula](https://drive.google.com/open?id=1enS73yaeMvfAof8zEtGe3URoXVIFXiKN).
 
 
 ## W3: Need-finding and Personas
 
 This week was about need-finding and getting an even better understanding of the project.
-Through [affinity clustering](https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity%20clustering.md), each member of the group recapitulated the discussion with Ivan and wrote down their first observations.
+Through [affinity clustering](content/affinity%20clustering.md), each member of the group recapitulated the discussion with Ivan and wrote down their first observations.
 This required each team member to think about the meeting and find words for their personal impressions.
 The Observations on the cards got grouped together to form categories of our choice.
 This process, and the process of sharing our individual thoughts on cards, lead us to better insights on the situation and the project as a whole.
 See the images below for the results - click on the images to enlargen.
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_1.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_1.jpeg" alt="affinity clustering 1" width=400 /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_2.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_2.jpeg" alt="affinity clustering 1" width=400 /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_3.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_3.jpeg" alt="affinity clustering 1" width=400 /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/affinity_clustering_4.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_4.jpeg" alt="affinity clustering 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/affinity_clustering_1.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_1.jpeg" alt="affinity clustering 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/affinity_clustering_2.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_2.jpeg" alt="affinity clustering 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/affinity_clustering_3.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_3.jpeg" alt="affinity clustering 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/affinity_clustering_4.jpeg"><img src="https://github.com/eth-ait/hci-project-group-4/raw/master/content/affinity_clustering_4.jpeg" alt="affinity clustering 1" width=400 /></a>
 
 
-### Personas
+### W4: Personas
 
 We also invented three differing personas which can serve us as guidance.
 We created them such that they serve us as target audience.
@@ -58,17 +58,17 @@ By describing their situation and therefore their needs, we now have good refere
 
 (Click on the links for a more complete description)
 
-[Jason](https://github.com/eth-ait/hci-project-group-4/blob/master/content/persona%20jesse.pdf), 27, a typical music student looking for an efficient way to study.
+[Jason](content/persona%20jesse.pdf), 27, a typical music student looking for an efficient way to study.
 
-[Alana](https://github.com/eth-ait/hci-project-group-4/blob/master/content/persona%20alana.pdf), 19, an ambitious high school student working towards a music competition while trying to have as much free time as possible.
+[Alana](content/persona%20alana.pdf), 19, an ambitious high school student working towards a music competition while trying to have as much free time as possible.
 
-[Jennifer](https://github.com/eth-ait/hci-project-group-4/blob/master/content/persona%20jennifer.pdf), 34, a music teacher looking for a way to help her students even when she's not around.
+[Jennifer](content/persona%20jennifer.pdf), 34, a music teacher looking for a way to help her students even when she's not around.
 
 
-## W4: Ideation
+## Ideation
 
 With the help of our personas and an understanding of our goal we could now explore the whole designspace we are in.
-The idea is to [brainstorm](https://github.com/eth-ait/hci-project-group-4/blob/master/content/brainstorm.md): thinking in any direction without caring about implementability or any other real world problems.
+The idea is to [brainstorm](content/brainstorm.md): thinking in any direction without caring about implementability or any other real world problems.
 Since there exist no bad ideas in this context, we had both serious ideas and quite a bit of banter that lead us into interesting areas.
 
 From this we narrowed down and fleshed out three main prototypes.
@@ -76,7 +76,8 @@ Since we already had a lot of ideas through the brainstorm and the work done in 
 The hardest part was dumping *glorious thoughts* which turned out to be *not* so promising after all.
 Still, we tried to create three totally different prototypes.
 Each one tried to solve the problem in it's own way so as not miss any perspective, each combining more combinations of ideas we from the brainstorming process.
-The results we [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototypes%20presentation.pdf) the week after in class to get a [first feedback](https://github.com/eth-ait/hci-project-group-4/blob/master/content/feedback_presentation.md).
+The results we [presented](Deliverables/prototypes presentation.pdf) the week after in class to get  [first feedback](content/feedback_presentation.md).
+*(Actually this presentation is an extended version of the one given in class which was condensed to just the good stuff, we used this extended version in conjunction with other work when meeting with our stakeholder).*
 After minor changes the ideas of our prototypes were presented our stakeholder Ivan.
 
 
@@ -87,23 +88,23 @@ When designing them we tried to keep in mind our personas, e.g. *'Alana would no
 Additionally we decided to try to do three different prototypes that combined different ideas in different modalities.
 Click on the headers for the full details of the prototypes.
 
-#### [10-π](https://github.com/eth-ait/hci-project-group-4/blob/master/content/ten-pi_app_prototype.pdf)  
+#### [10-π](content/ten-pi_app_prototype.pdf)  
 
 - ˈtɛmpiː
 
 An app with inbuilt functionality to plan and keep track of ones progress.
 
-#### [bothofen](https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_prototype.pdf) 
+#### [bothofen](content/bothofen_prototype.pdf) 
 
 - ˈbeɪˌtoʊvən
 
 A small gadget providing deeper insight into the music played and a way to connect with peers or teachers.
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_1.png" alt="sketch 1" width=400 /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_2.png" alt="sketch 2" width=400 /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/bothofen_skizze_3.png" alt="sketch 3" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/bothofen_skizze_1.png"><img src="content/bothofen_skizze_1.png" alt="sketch 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/bothofen_skizze_2.png"><img src="content/bothofen_skizze_2.png" alt="sketch 2" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/bothofen_skizze_3.png"><img src="content/bothofen_skizze_3.png" alt="sketch 3" width=400 /></a>
 
-#### [π-ano](https://github.com/eth-ait/hci-project-group-4/blob/master/content/pi-ano_prototype.pdf) 
+#### [π-ano](content/pi-ano_prototype.pdf) 
 
 - piˈænəʊ
 
@@ -119,16 +120,16 @@ Even though a physical device could potentially provide much more than an app, w
 
 We created multiple paper prototypes of the app to get a feel for how different incarnations might appear and how different widgets and interactions could be facilitated.
 See the prototypes below:
-[PP1](https://github.com/eth-ait/hci-project-group-4/blob/master/content/paper_prototype_1.pdf),
-[PP2](https://github.com/eth-ait/hci-project-group-4/blob/master/content/paper_prototype_2.pdf),
-[PP3](https://github.com/eth-ait/hci-project-group-4/blob/master/content/paper_prototype_3.pdf),
-[PP4](https://github.com/eth-ait/hci-project-group-4/blob/master/content/paper_prototype_4.pdf).
+[PP1](content/paper_prototype_1.pdf),
+[PP2](content/paper_prototype_2.pdf),
+[PP3](content/paper_prototype_3.pdf),
+[PP4](content/paper_prototype_4.pdf).
 
 Each team member drew their own paper prototype.
 This way each team member created their own first app paper prototype uninfluenced and could take their interpretation of the ideas we had developed together and mix them with any additional ideas of their own.
 This was very useful to determine where we had still had different interpretations which we needed to discuss more, and also meant a larger pool of ideas area available to use later on.
 
-We created a [rough outline](https://github.com/eth-ait/hci-project-group-4/blob/master/content/prototyping_outline.md) so we could combine the ideas we thought best more easily with each other.
+We created a [rough outline](content/prototyping_outline.md) so we could combine the ideas we thought best more easily with each other.
 The resulting discussion within the team showed we did have different points of view on either certain ways to best show things.
 This being said, with our knowledge of guiding design principles (e.g. Neilson's ), reducing user surprise and maximizing familiarity narrowed the design space of how to implement our ideas significantly.
 We sat down multiple times in the team, talking to potential future users in between, to get a feel what we (and they) needed.
@@ -138,9 +139,9 @@ The priorities for development first were to test very limited navigation option
 Furthermore, we started to use reference of functionalities of already existing apps that had features we liked.
 \
 See below:
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_1.jpg" alt="App impression 1" width=400 /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/app_review_2.jpg" alt="App impression 2" width=400 /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg"><img src="https://github.com/eth-ait/hci-project-group-4/blob/master/content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/app_review_1.jpg"><img src="content/app_review_1.jpg" alt="App impression 1" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/app_review_2.jpg"><img src="content/app_review_2.jpg" alt="App impression 2" width=400 /></a>
+<a target="_blank" rel="noopener noreferrer" href="content/sleeping_app_review_1.jpg"><img src="content/sleeping_app_review_1.jpg" alt="Sleeping App Reference" width=400 /></a>
 
 After composing a vision of the project as a whole and producing a coarse prototype getting feedback from potential users is needed.
 
@@ -155,20 +156,26 @@ With this we should assess the usability of our design.
 
 #### Study
 
-We designed a study and carried it out, then evaluated the data.
-The [Detailed Study Report](https://github.com/eth-ait/hci-project-group-4/blob/master/content/detailed_study_report.pdf) contains our hypotheses, the methods we used to checked those and a short summary.
-The [Study Evaluation](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_evaluation.pdf) shows the result of the study, statistics we extracted out of the data commented on it by us.
-We attained the data by conducting the tests described in the detailed study report and wrote down the result in an [Evaluation Form](https://docs.google.com/forms/d/1mMPWOriXPx2D7pERDGj-8rZW28IvjL5L10zMLD73cyg/viewform?edit_requested=true).
+We designed a study, carried it out and presented some of our intermediate results, then evaluated the data.
+The [Study Evaluation](Deliverables/Study evaluation.pdf) shows the result of the study, statistics we extracted out of the data commented on it by us.
 
-#### The data
+The [Detailed Study Report](Deliverables/detailed_study_report.pdf) contains our hypotheses, the methods we used to checked those and a short summary.
 
-The raw data can be seen [here](https://github.com/eth-ait/hci-project-group-4/blob/master/content/excel_raw_study_data.xlsx).
+#### Presentation
 
-### Presentation
-
-We [presented](https://github.com/eth-ait/hci-project-group-4/blob/master/content/study_presentation.pdf) the study to the class and to our stakeholder - Ivan - along with the reports.
+We [presented](Deliverables/study_presentation.pdf) the study to the class and to our stakeholder - Ivan - along with the reports.
 The study provided us with useful insight as to what we needed to prioritise and some concrete things to change; for example some of the buttons in our test prototype had misleading and confusing names for the task they were intended.
 The feedback provided by the user study showed us where the project stands as a whole and gave us a way forward with the project.
+
+
+#### Evaluation and Data
+
+##### Evaluation
+We attained the data by conducting the tests described in the detailed study report and noted down the result in an [Evaluation Form](https://docs.google.com/forms/d/1mMPWOriXPx2D7pERDGj-8rZW28IvjL5L10zMLD73cyg/viewform?edit_requested=true) (or [in pdf form](Deliverables/Evaluation Form - Google Forms.pdf)).
+
+##### The data
+
+The raw data can be seen [here](content/excel_raw_study_data.xlsx).
 
 
 ## Final design
@@ -212,7 +219,7 @@ The final Video can be found at:
 [Here](https://drive.google.com/open?id=1vYRiSGH3-PIHuf1GDOifW6OC8yPEbuct)  in high quality version.
 A compressed low-res version is in [here](Deliverables/Video_low_res.mp4).
 
-### Final meeting With Ivan
+## Final meeting With Ivan
 
 We met with Ivan some time after the presentation.
 Due to the Christmas break and Ivan's busy schedule he had not been able to see the final video.
